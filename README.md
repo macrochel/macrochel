@@ -1,4 +1,4 @@
-# SUP THERE 👋🏻 I'm Day-Nyan!
+# SUP THERE 👋🏻, I'm Day-Nyan!
 
 ## 🧑🏻‍🚀BACKEND DEVELOPER
 
