@@ -1,14 +1,14 @@
 <h1 align="center">SUP, I'm Day-Nyan 👋🏻!</h1>
 
 <div align=center>
+  <a href="https://www.linkedin.com/in/day-nyan-chan-870116266/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://www.instagram.com/microchel.jpg/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="microchel@lifalks.online">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/day-nyan-chan-870116266/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
