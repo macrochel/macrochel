@@ -1,6 +1,7 @@
 <h1 align="center">SUP, I'm Day-Nyan 👋🏻!</h1>
 
 <div align=center>
+  <br/>
   <a href="https://www.linkedin.com/in/day-nyan-chan-870116266/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -49,37 +50,36 @@
 
 <details open>
   <summary><h2>📊 STATS:</h2></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=macrochel&show_icons=true&theme=holi&layout=compact"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrochel&theme=holi&layout=compact"/>
+  <img width=395px src="https://github-readme-stats.vercel.app/api?username=macrochel&show_icons=true&theme=material-palenight&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrochel&theme=material-palenight&layout=compact"/>
 </details>
 
 <details open>
   <summary><h2>💼 TOP OF MY PROJECTS:</h2></summary>
   <a href="https://github.com/macrochel/Tardigrade">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Tardigrade&theme=holi&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Tardigrade&theme=material-palenight&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/JasylTirsilik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=JasylTirsilik&theme=holi&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=JasylTirsilik&theme=material-palenight&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/Mining-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Mining-calculator&theme=holi&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Mining-calculator&theme=material-palenight&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/ChickBoy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=ChickBoy&theme=holi&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=ChickBoy&theme=material-palenight&show_owner=true"/>
   </a>
   <br/>
   <a href="https://github.com/macrochel/Jumys-DESKTOP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Jumys-DESKTOP&theme=holi&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Jumys-DESKTOP&theme=material-palenight&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/CareerstepBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=CareerstepBot&theme=holi&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=CareerstepBot&theme=material-palenight&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/HomeLinkAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=HomeLinkAPI&theme=holi&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=HomeLinkAPI&theme=material-palenight&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/Jumys-IOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Jumys-IOS&theme=holi&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Jumys-IOS&theme=material-palenight&show_owner=true"/>
   </a>
   
 </details>
@@ -87,11 +87,11 @@
 <details open>
   <summary><h2>🤝 I contributed to:</h2></summary>
   <a href="https://github.com/markushha/Home-Link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=markushha&repo=Home-Link&theme=holi&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=markushha&repo=Home-Link&theme=material-palenight&show_owner=true"/>
   </a>
   <br/>
   <a href="https://github.com/abdulkarimov/onboarding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulkarimov&repo=onboarding&theme=holi&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulkarimov&repo=onboarding&theme=material-palenight&show_owner=true"/>
   </a>
 </details>
 
