@@ -49,24 +49,37 @@
 
 <details open>
   <summary><h2>📊 STATS:</h2></summary>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macrochel&layout=compact&theme=transparent"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=macrochel&theme=transparent"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=macrochel&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=macrochel&show_icons=true&theme=holi&layout=compact"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrochel&theme=holi&layout=compact"/>
 </details>
 
 <details open>
   <summary><h2>💼 TOP OF MY PROJECTS:</h2></summary>
-  <a href="https://github.com/macrochel/Mining-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Mining-calculator&theme=transparent&show_owner=true"/>
-  </a>
   <a href="https://github.com/macrochel/Tardigrade">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Tardigrade&theme=transparent&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Tardigrade&theme=holi&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/JasylTirsilik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=JasylTirsilik&theme=transparent&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=JasylTirsilik&theme=holi&show_owner=true"/>
+  </a>
+  <a href="https://github.com/macrochel/Mining-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Mining-calculator&theme=holi&show_owner=true"/>
+  </a>
+  <a href="https://github.com/macrochel/ChickBoy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=ChickBoy&theme=holi&show_owner=true"/>
+  </a>
+  <br/>
+  <a href="https://github.com/macrochel/Jumys-DESKTOP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Jumys-DESKTOP&theme=holi&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/CareerstepBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=CareerstepBot&theme=transparent&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=CareerstepBot&theme=holi&show_owner=true"/>
+  </a>
+  <a href="https://github.com/macrochel/HomeLinkAPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=HomeLinkAPI&theme=holi&show_owner=true"/>
+  </a>
+  <a href="https://github.com/macrochel/Jumys-IOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Jumys-IOS&theme=holi&show_owner=true"/>
   </a>
   
 </details>
@@ -74,11 +87,11 @@
 <details open>
   <summary><h2>🤝 I contributed to:</h2></summary>
   <a href="https://github.com/markushha/Home-Link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=markushha&repo=Home-Link&theme=transparent&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=markushha&repo=Home-Link&theme=holi&show_owner=true"/>
   </a>
   <br/>
   <a href="https://github.com/abdulkarimov/onboarding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulkarimov&repo=onboarding&theme=transparent&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulkarimov&repo=onboarding&theme=holi&show_owner=true"/>
   </a>
 </details>
 
