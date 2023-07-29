@@ -13,6 +13,12 @@
   </a>
 </div>
 
+<details open>
+  <summary><h2>📊 STATS:</h2></summary>
+  <img width=395px src="https://github-readme-stats.vercel.app/api?username=macrochel&show_icons=true&theme=material-palenight&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrochel&theme=material-palenight&layout=compact"/>
+</details>
+
 <details>
   <summary><h2>🗂 MY STACK</h2></summary>
   <h3>🔐Programming anf markdown languages</h3>
@@ -49,12 +55,6 @@
 </details>
 
 <details open>
-  <summary><h2>📊 STATS:</h2></summary>
-  <img width=395px src="https://github-readme-stats.vercel.app/api?username=macrochel&show_icons=true&theme=material-palenight&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrochel&theme=material-palenight&layout=compact"/>
-</details>
-
-<details open>
   <summary><h2>💼 TOP OF MY PROJECTS:</h2></summary>
   <a href="https://github.com/macrochel/Tardigrade">
     <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Tardigrade&theme=material-palenight&show_owner=true"/>
@@ -84,7 +84,7 @@
   
 </details>
 
-<details open>
+<details>
   <summary><h2>🤝 I contributed to:</h2></summary>
   <a href="https://github.com/markushha/Home-Link">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=markushha&repo=Home-Link&theme=material-palenight&show_owner=true"/>
