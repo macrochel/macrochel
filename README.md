@@ -19,41 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrochel&theme=material-palenight&layout=compact"/>
 </details>
 
-<details>
-  <summary><h2>🗂 MY STACK</h2></summary>
-  <h3>🔐Programming anf markdown languages</h3>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-0052CC?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <h3>🛠CI/CD tools</h3>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white "/>
-  <img src="https://img.shields.io/badge/GIT-FA7343?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <h3>💿Databases</h3>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-0052CC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-00ADD8?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Supabase-00000F?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FA7343?style=for-the-badge&logo=Firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-239120?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <h3>💻OS</h3>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0052CC?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
-  <h3>🧩TASK MANAGEMENT</h3>
-  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
-</details>
-
 <details open>
   <summary><h2>💼 TOP OF MY PROJECTS:</h2></summary>
   <a href="https://github.com/macrochel/Tardigrade">
@@ -62,8 +27,8 @@
   <a href="https://github.com/macrochel/JasylTirsilik">
     <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=JasylTirsilik&theme=material-palenight&show_owner=true"/>
   </a>
-  <a href="https://github.com/macrochel/Mining-calculator">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Mining-calculator&theme=material-palenight&show_owner=true"/>
+  <a href="https://github.com/macrochel/MiningCalculator">
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=MiningCalculator&theme=material-palenight&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/ChickBoy">
     <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=ChickBoy&theme=material-palenight&show_owner=true"/>
@@ -85,7 +50,7 @@
 </details>
 
 <details>
-  <summary><h2>🤝 I contributed to:</h2></summary>
+  <summary><h2>🤝 I CONTRIBUTED TO:</h2></summary>
   <a href="https://github.com/markushha/Home-Link">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=markushha&repo=Home-Link&theme=material-palenight&show_owner=true"/>
   </a>
@@ -93,5 +58,40 @@
   <a href="https://github.com/abdulkarimov/onboarding">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulkarimov&repo=onboarding&theme=material-palenight&show_owner=true"/>
   </a>
+</details>
+
+<details>
+  <summary><h2>🗂 MY STACK</h2></summary>
+  <h3>⌨️ Programming anf markdown languages</h3>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0052CC?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <h3>🛠 CI/CD tools</h3>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white "/>
+  <img src="https://img.shields.io/badge/GIT-FA7343?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <h3>💿 Databases</h3>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-0052CC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-00ADD8?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Supabase-00000F?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FA7343?style=for-the-badge&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-239120?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <h3>💻 OS</h3>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0052CC?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
+  <h3>🧩 TASK MANAGEMENT</h3>
+  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </details>
 
