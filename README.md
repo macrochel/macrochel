@@ -14,8 +14,8 @@
   <a href="https://github.com/macrochel/JasylTirsilik">
     <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=JasylTirsilik&theme=chartreuse-dark&show_owner=true"/>
   </a>
-  <a href="https://github.com/macrochel/MiningCalculator">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=MiningCalculator&theme=chartreuse-dark&show_owner=true"/>
+  <a href="https://github.com/macrochel/geojson-to-mysql">
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=geojson-to-mysql&theme=chartreuse-dark&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/ChickBoy">
     <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=ChickBoy&theme=chartreuse-dark&show_owner=true"/>
