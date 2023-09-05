@@ -49,7 +49,7 @@
 
 <details>
   <summary><h2>🗂 MY STACK</h2></summary>
-  <h3>⌨️ Programming anf markdown languages</h3>
+  <h3>⌨️ Programming and markdown languages</h3>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-0052CC?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white"/>
@@ -74,8 +74,8 @@
   <img src="https://img.shields.io/badge/MongoDB-239120?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <h3>💻 OS</h3>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0052CC?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
   <h3>🧩 TASK MANAGEMENT</h3>
   <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
