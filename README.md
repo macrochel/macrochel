@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋🏻<br/>
-I'm Chan Day-Nyan.</h1>
+I'm Chan Day-Nyan</h1>
 
 <details open>
   <summary><h2>📊 STATS:</h2></summary>
