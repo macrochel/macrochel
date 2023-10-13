@@ -2,8 +2,8 @@
 
 <details open>
   <summary><h2>📊 STATS:</h2></summary>
-  <img width=395px src="https://github-readme-stats.vercel.app/api?username=macrochel&show_icons=true&theme=chartreuse-dark&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrochel&theme=chartreuse-dark&layout=compact"/>
+  <img width=395px src="https://github-readme-stats.vercel.app/api?username=macrochel&show_icons=true&theme=gotham&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macrochel&theme=gotham&layout=compact"/>
 </details>
 
 <details open>
