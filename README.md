@@ -49,7 +49,7 @@ I'm Chan Day-Nyan</h1>
 </details>
 
 <details>
-  <summary><h2>🗂 MY STACK</h2></summary>
+  <summary><h2>🗂 MY STACK:</h2></summary>
   <h3>⌨️ Programming and markdown languages</h3>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-0052CC?style=for-the-badge&logo=python&logoColor=white"/>
