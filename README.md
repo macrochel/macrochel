@@ -9,29 +9,29 @@
 <details open>
   <summary><h2>💼 TOP OF MY PROJECTS:</h2></summary>
   <a href="https://github.com/macrochel/Tardigrade">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Tardigrade&theme=chartreuse-dark&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Tardigrade&theme=gotham&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/JasylTirsilik">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=JasylTirsilik&theme=chartreuse-dark&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=JasylTirsilik&theme=gotham&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/geojson-to-mysql">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=geojson-to-mysql&theme=chartreuse-dark&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=geojson-to-mysql&theme=gotham&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/ChickBoy">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=ChickBoy&theme=chartreuse-dark&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=ChickBoy&theme=gotham&show_owner=true"/>
   </a>
   <br/>
   <a href="https://github.com/macrochel/Jumys-DESKTOP">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Jumys-DESKTOP&theme=chartreuse-dark&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Jumys-DESKTOP&theme=gotham&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/CareerstepBot">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=CareerstepBot&theme=chartreuse-dark&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=CareerstepBot&theme=gotham&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/HomeLinkAPI">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=HomeLinkAPI&theme=chartreuse-dark&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=HomeLinkAPI&theme=gotham&show_owner=true"/>
   </a>
   <a href="https://github.com/macrochel/Jumys-IOS">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Jumys-IOS&theme=chartreuse-dark&show_owner=true"/>
+    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=macrochel&repo=Jumys-IOS&theme=gotham&show_owner=true"/>
   </a>
   
 </details>
@@ -39,11 +39,11 @@
 <details>
   <summary><h2>🤝🏻 I CONTRIBUTED TO:</h2></summary>
   <a href="https://github.com/markushha/Home-Link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=markushha&repo=Home-Link&theme=chartreuse-dark&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=markushha&repo=Home-Link&theme=gotham&show_owner=true"/>
   </a>
   <br/>
   <a href="https://github.com/abdulkarimov/onboarding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulkarimov&repo=onboarding&theme=chartreuse-dark&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulkarimov&repo=onboarding&theme=gotham&show_owner=true"/>
   </a>
 </details>
 
