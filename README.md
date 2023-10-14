@@ -81,7 +81,7 @@ I'm Chan Day-Nyan (Ayan)</h1>
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </details>
 
-<details>
+<details open>
   <summary><h2>🔗 SOCIALS:</h2></summary>
   <a href="https://www.linkedin.com/in/day-nyan-chan-870116266/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
