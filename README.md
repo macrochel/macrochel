@@ -60,8 +60,6 @@ I'm Chan Day-Nyan (Ayan)</h1>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <h3>🛠 CI/CD tools</h3>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white "/>
   <img src="https://img.shields.io/badge/GIT-FA7343?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <h3>💿 Databases</h3>
