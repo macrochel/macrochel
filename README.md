@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋🏻<br/>
+<h1 align="center">Hey there! 👋<br/>
 I'm Chan Day-Nyan (Ayan)</h1>
 
 <details open>
